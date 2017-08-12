@@ -12,4 +12,6 @@
 	Licensed under the GPLv2 license: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
+defined( 'ABSPATH' ) || die( 'File cannot be accessed directly' );
+
 include( 'inc/class-pmpro-usermeta.php' );
